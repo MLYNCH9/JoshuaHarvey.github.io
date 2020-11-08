@@ -4,7 +4,7 @@
 <title>The Joshua Harvey</title>
 <body style="text-align: center">
   <p>
-    <img src="resources/Josh.jpg" height="250" width="250" allign="center"/>
+    <img src="Josh.jpg" height="250" width="250" allign="center"/>
     <figcaption>It me.</figcaption></p>
   <h1 style="color: blue;">Joshua Harvey Kinkel</h1>
     <p>
